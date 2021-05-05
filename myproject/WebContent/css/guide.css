@@ -1,0 +1,381 @@
+/*枠
+-------------------------------- */ 
+.guide_waku1 {
+  padding: 10px 0px 5px 5px;
+  margin: 8px 0px 25px 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #FFFFFF;
+  background-color:#FFFFFF;
+  width: 700px;
+}
+.guide_waku2 {
+  padding: 10px 0px 15px 8px;
+  margin: 15px 0px 15px 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #FFFFFF;
+  background-color:#FFFFFF;
+  width: 650px;
+}
+
+/*テーブル(入館料)
+-------------------------------- */ 
+.table-gu1 {
+  width: 630px;
+  border: 1px #C7BFB8 solid;
+  border-collapse:collapse;
+  border-spacing:0px;
+  margin-left:5px;
+  margin-bottom:5px;
+  margin-top:5px;
+}
+
+.table-gu1 th {
+  padding: 10px 5px 5px 5px;
+  border: 1px #C7BFB8 solid;
+  border-width: 0px 0px 1px 1px;
+  background: #FCEBE4;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #664F40;
+}
+
+.table-gu1 td {
+  padding: 10px 5px 5px 5px;
+  border: 1px #C7BFB8 solid;
+  border-width: 0px 0px 1px 1px;
+  text-align: left;
+  background: #FFFFFF;
+  letter-spacing: 0.06em;
+  color:#333333;
+}
+
+.tablegu_p1 {
+  font-size: 90%;
+  color: #745956;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+
+.tablegu_p2 {
+  font-size: 90%;
+  color: #745956;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  letter-spacing: 0.07em;
+}
+
+.tablegu_p3 {
+  font-size: 100%;
+  color: #745956;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+
+td.color1 {
+  background-color: #FBC4D5; /* ピンク */
+  font-weight: bold;
+  font-size: 100%;
+  line-height: 140%;
+}
+
+/*テーブル(室料金)
+-------------------------------- */ 
+.table_gu2 {
+  width: 620px;
+  border: 1px #FFFFFF solid;
+  border-collapse:collapse;
+  border-spacing:0px;
+  margin-left:10px;
+  margin-bottom:10px;
+  margin-top:5px;
+}
+
+.table_gu2 th {
+  padding: 5px 0px 5px 0px;
+  border: 1px #FFFFFF solid;
+  border-width: 0px 0px 1px 1px;
+}
+
+.table_gu2 td {
+  padding: 5px 0px 5px 10px;
+  border: 1px #FFFFFF solid;
+  border-width: 0px 0px 1px 1px;
+  background: #FFFFFF;
+  text-align: center;
+}
+
+.table_gu2_2 {
+  width: 590px;
+  border: 1px #8A8295 solid;
+  border-collapse:collapse;
+  border-spacing:0px;
+  margin-left:0px;
+  margin-bottom:5px;
+  margin-top:5px;
+}
+
+.table_gu2_2 th {
+  padding: 5px 5px 5px 5px;
+  border: 1px #8A8295 solid;
+  border-width: 0px 0px 1px 1px;
+  background: #FCEBE4;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #664F40;
+}
+
+.table_gu2_2 td {
+  padding: 5px 5px 5px 0px;
+  border: 1px #8A8295 solid;
+  border-width: 0px 0px 1px 1px;
+  text-align: left;
+  background: #FFFFFF;
+  letter-spacing: 0.06em;
+  color:#333333;
+}
+.table-gu2_3 {
+  width: 570px;
+  border: 1px #C7BFB8 solid;
+  border-collapse:collapse;
+  border-spacing:0px;
+  margin-left:20px;
+  margin-bottom:5px;
+  margin-top:5px;
+}
+
+.table-gu2_3 th {
+  padding: 6px 5px 4px 5px;
+  border: 1px #C7BFB8 solid;
+  border-width: 0px 0px 1px 1px;
+  background: #FCEBE4;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #664F40;
+}
+
+.table-gu2_3 td {
+  padding: 6px 5px 4px 5px;
+  border: 1px #C7BFB8 solid;
+  border-width: 0px 0px 1px 1px;
+  text-align: left;
+  background: #FFFFFF;
+  letter-spacing: 0.06em;
+  color:#333333;
+}
+
+td.color001 {
+  background-color: #E6DEF8; /* 薄紫 */
+  font-weight: bold;
+  font-size: 110%;
+  letter-spacing: 0.1em;
+  text-align: left;
+  color: #6F5646;
+  padding: 10px 0px 5px 25px;
+}
+
+td.color002 {
+  background-color: #F3E6FB; /* 薄紫2 */
+  font-size: 100%;
+  letter-spacing: 0.06em;
+  text-align: center;
+  color: #745956;
+  padding: 10px 10px 6px 10px;
+  font-weight: bold;
+}
+
+td.color003 {
+ background-color: #F8F3FC; /* 薄紫2 */
+ font-size: 100%;
+ letter-spacing: 0.07em;
+ text-align: center;
+ color: #745956;
+ padding: 10px 8px 5px 8px;
+}
+
+td.color004 {
+  background-color: #FBD7CE; /* 薄ピンク */
+  font-weight: bold;
+  font-size: 110%;
+  letter-spacing: 0.1em;
+  text-align: left;
+  color: #745956;
+  padding: 10px 0px 5px 20px;
+}
+
+td.color005 {
+ background-color: #FEE7F0; /* 薄ピンク */
+ font-size: 100%;
+ letter-spacing: 0.07em;
+ text-align: center;
+ color: #745956;
+ padding: 10px 8px 5px 8px;
+ font-weight: bold;
+}
+
+td.color006 {
+ background-color: #FFF4FA; /* 薄ピンク */
+ font-size: 100%;
+ letter-spacing: 0.07em;
+ text-align: center;
+ color: #745956;
+ padding:10px 7px 5px 7px;
+}
+
+/* 文字
+-------------------------------- */ 
+.guide_p1 {
+  font-size:90%;
+  padding: 4px 0px 4px 10px;
+  text-align: left;
+  color: #666666;
+  line-height: 140%;
+  letter-spacing: 0.04em;
+}
+
+.guide_p2 {
+  font-size: 90%;
+  padding: 4px 0px 4px 20px;
+  text-align: left;
+  color: #666666;
+  line-height: 155%;
+  letter-spacing: 0.05em;
+}
+
+.guide_p3 {
+  font-size: 90%;
+  padding: 4px 0px 4px 25px;
+  text-align: left;
+  color: #755B4A;
+  line-height: 160%;
+  letter-spacing: 0.07em;
+}
+
+/* ライン
+-------------------------------- */ 
+.border_g01 {
+  background-color: #DAEEF8;
+  border-style: double;
+  border-width: 0px;
+  width: 615px;
+  height: 30px;
+  margin: 5px 0px 5px 5px;
+}
+
+.border_g02 {
+  border: 1px #8A8295 solid;
+  border-width: 0px 1px 1px 0px;
+  background-color: #E6D2F4;
+  border-style: double;
+  width: 630px;
+  height: 30px;
+  margin: 5px 0px 10px 5px;
+}
+
+.border_g03 { 
+  border: 1px #8A8295 solid;
+  border-width: 0px 1px 1px 0px;
+  background-color: #FDD6CC;
+  border-style: double;
+  width: 630px;
+  height: 30px;
+  margin: 5px 0px 10px 5px;
+}
+
+.border_gp {
+  font-size:100%;
+  padding: 7px 0px 4px 10px;
+  color: #755B4A;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+}
+.border_gp2 {
+ font-size:110%;
+ padding-top: 8px;
+ padding-left: 10px;
+ color:#865E55;
+ font-weight: bold;
+ letter-spacing: 0.1em;
+}
+
+/* 館内案内用
+-------------------------------- */ 
+.guide_kan_waku1 {
+  padding: 8px 0px 5px 8px;
+  margin: 15px 0px 20px 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #E8D9E7;
+  background-color: #FFF7FA;
+  width: 650px;
+}
+.guide_kan_p1 {
+  font-size: 90%;
+  padding: 5px 0px 5px 12px;
+  text-align: left;
+  color: #666666;
+  line-height: 150%;
+  letter-spacing: 0.07em;
+}
+.guide_kan_p2 {
+  font-size: 100%;
+  padding: 5px 0px 5px 13px;
+  text-align: left;
+  color: #FB6C6C;
+  letter-spacing: 0.06em;
+}
+.guide_kan_p3 {
+  font-size: 110%;
+  padding: 5px 0px 5px 10px;
+  text-align: left;
+  color: #FB6C6C;
+  line-height: 120%;
+  letter-spacing: 0.07em;
+  font-weight: bold; 
+}
+.guide_kan_p4 {
+  font-size: 100%;
+  padding: 7px 0px 5px 15px;
+  text-align: left;
+  color: #666666;
+  line-height: 110%;
+  letter-spacing: 0.05em;
+  font-weight: bold;   
+}
+.border_kan001 {
+  border: 1px #DCD3EB solid;
+  border-width: 0px 1px 1px 0px;
+  background-color: #F9E9FE;
+  border-style: double;
+  width: 590px;
+  height: 120px;
+  margin: 10px 0px 15px 15px;
+  padding-top:10px;
+}
+
+.border_kan002 {
+  border: 1px #DCD3EB solid;
+  border-width: 1px 1px 1px 1px;
+  background-color: #FFFFFF;
+  border-style: double;
+  width: 590px;
+  height: 70px;
+  margin: 5px 0px 20px 15px;
+  padding-top:10px;
+}
+.border_kan_p01 {
+  font-size: 100%;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-bottom:5px;
+  color: #755B4A;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+}
